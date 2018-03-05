@@ -22,7 +22,7 @@
 % v^2  ; given v(0) = 10, h = 0.05 and h = 0.1 Using Euler, Modified Euler and 
 % Runge-Kutta methods. *
 % 
-% *NB: Updated version available at:* https://github.com/imosudi/matlabnewbie/numericalsolutions 
+% *NB: Updated version available at:* https://github.com/imosudi/matlabnewbie 
 % 
 % 
 % 
